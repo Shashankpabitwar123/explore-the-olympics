@@ -1,0 +1,2 @@
+Original SVG flags: https://olympedia-flags.s3.eu-central-1.amazonaws.com/{NOC}.svg
+Filenames use delegation/NOC codes. PNG exports: 600 x 400, transparent padding, original proportions preserved. Historical designs follow the saved source assets; not an edition-specific flag mapping.

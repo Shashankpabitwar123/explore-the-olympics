@@ -1,0 +1,164 @@
+{
+  "status": "passed",
+  "checks_passed": 23,
+  "checks": [
+    "editions: unique nonempty keys",
+    "events: unique nonempty keys",
+    "awards: unique nonempty keys",
+    "countries: unique nonempty keys",
+    "events reference existing editions",
+    "awards reference matching events and editions",
+    "award delegation codes exist",
+    "medal codes are gold, silver or bronze",
+    "roster members reference matching awards and events",
+    "workbook ZIP integrity",
+    "one connected, embedded extract",
+    "every source award appears exactly once in the extract",
+    "all award event IDs, medals and delegations match",
+    "winner names match, with country fallback for blank team names",
+    "team flags match the source",
+    "all source events appear in the extract",
+    "every event control preserves edition, sport and category",
+    "four control vertices per event",
+    "display label changes are historical hurdle distances",
+    "all recorded roster names survive in result labels",
+    "all edition IDs appear in edition controls",
+    "Paris 2024 women's 100 m podium matches",
+    "edition summary reconciles to events and awards"
+  ],
+  "workbook_sha256": "3bf801157160cdbfd42300e383137f43bc6615ba8d57fad27de9509cff103b45",
+  "source_rows": {
+    "editions": 55,
+    "events": 7098,
+    "awards": 21821,
+    "countries": 233,
+    "roster_members": 31194
+  },
+  "extract_rows": 117468,
+  "extract_row_types": {
+    "Award": 21821,
+    "Category": 6384,
+    "Country": 100,
+    "Edition": 224,
+    "EmptyAward": 206,
+    "Event": 28392,
+    "EventGroup": 8896,
+    "ResultLine": 47545,
+    "Season": 132,
+    "Sport": 3764,
+    "UI": 4
+  },
+  "hurdle_label_changes": [
+    {
+      "event_id": "22-63764",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "23-64440",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "24-65115",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "59-359067",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "61-19000741",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "63-2013905",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "25-65773",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "26-66490",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "53-257632",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "54-302235",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "10-58121",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "80 m Hurdles"
+    },
+    {
+      "event_id": "11-58442",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "80 m Hurdles"
+    },
+    {
+      "event_id": "12-58796",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "80 m Hurdles"
+    },
+    {
+      "event_id": "13-59173",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "80 m Hurdles"
+    },
+    {
+      "event_id": "14-59536",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "80 m Hurdles"
+    },
+    {
+      "event_id": "15-59989",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "80 m Hurdles"
+    },
+    {
+      "event_id": "16-60407",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "80 m Hurdles"
+    },
+    {
+      "event_id": "17-60903",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "80 m Hurdles"
+    },
+    {
+      "event_id": "18-61469",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "19-62035",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "20-62520",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    },
+    {
+      "event_id": "21-63098",
+      "source_label": "100 / 80 m Hurdles",
+      "display_label": "100 m Hurdles"
+    }
+  ],
+  "scope": "Checks the saved sources and published extract. Does not independently verify every source fact or automate Tableau interactions."
+}

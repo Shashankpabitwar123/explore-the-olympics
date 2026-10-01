@@ -1,0 +1,56 @@
+id,year,season,city,host,name,url,dates,notes,events,sports
+1,1896,Summer,Athens,Greece,Athens 1896,https://www.olympedia.org/editions/1/medal,6 – 13 April 1896,,43,9
+2,1900,Summer,Paris,France,Paris 1900,https://www.olympedia.org/editions/2/medal,14 May – 28 October 1900,,95,19
+3,1904,Summer,St. Louis,United States,St. Louis 1904,https://www.olympedia.org/editions/3/medal,1 July – 26 November 1904,,95,16
+5,1908,Summer,London,Great Britain,London 1908,https://www.olympedia.org/editions/5/medal,27 April – 31 October 1908,,109,22
+6,1912,Summer,Stockholm,Sweden,Stockholm 1912,https://www.olympedia.org/editions/6/medal,5 May – 27 July 1912,,107,19
+7,1920,Summer,Antwerp,Belgium,Antwerp 1920,https://www.olympedia.org/editions/7/medal,23 April – 12 September 1920,,160,27
+8,1924,Summer,Paris,France,Paris 1924,https://www.olympedia.org/editions/8/medal,4 May – 27 July 1924,,130,21
+29,1924,Winter,Chamonix,France,Chamonix 1924,https://www.olympedia.org/editions/29/medal,26 January – 4 February 1924,,16,9
+9,1928,Summer,Amsterdam,Netherlands,Amsterdam 1928,https://www.olympedia.org/editions/9/medal,17 May – 12 August 1928,,120,19
+30,1928,Winter,St. Moritz,Switzerland,St. Moritz 1928,https://www.olympedia.org/editions/30/medal,11 – 19 February 1928,,13,8
+10,1932,Summer,Los Angeles,United States,Los Angeles 1932,https://www.olympedia.org/editions/10/medal,30 July – 14 August 1932,,125,19
+31,1932,Winter,Lake Placid,United States,Lake Placid 1932,https://www.olympedia.org/editions/31/medal,4 – 15 February 1932,,14,7
+11,1936,Summer,Berlin,Germany,Berlin 1936,https://www.olympedia.org/editions/11/medal,1 – 16 August 1936,,141,24
+32,1936,Winter,Garmisch-Partenkirchen,Germany,Garmisch-Partenkirchen 1936,https://www.olympedia.org/editions/32/medal,6 – 16 February 1936,,17,8
+12,1948,Summer,London,Great Britain,London 1948,https://www.olympedia.org/editions/12/medal,26 July – 14 August 1948,,149,22
+33,1948,Winter,St. Moritz,Switzerland,St. Moritz 1948,https://www.olympedia.org/editions/33/medal,30 January – 8 February 1948,,22,9
+13,1952,Summer,Helsinki,Finland,Helsinki 1952,https://www.olympedia.org/editions/13/medal,14 July – 3 August 1952,,149,17
+34,1952,Winter,Oslo,Norway,Oslo 1952,https://www.olympedia.org/editions/34/medal,14 – 25 February 1952,,22,8
+14,1956,Summer,Melbourne,Australia,Melbourne 1956,https://www.olympedia.org/editions/14/medal,22 November – 8 December 1956,,151,17
+35,1956,Winter,Cortina d'Ampezzo,Italy,Cortina d'Ampezzo 1956,https://www.olympedia.org/editions/35/medal,26 January – 5 February 1956,,24,8
+15,1960,Summer,Rome,Italy,Rome 1960,https://www.olympedia.org/editions/15/medal,25 August – 11 September 1960,,150,17
+36,1960,Winter,Squaw Valley,United States,Squaw Valley 1960,https://www.olympedia.org/editions/36/medal,19 – 28 February 1960,,27,8
+16,1964,Summer,Tokyo,Japan,Tokyo 1964,https://www.olympedia.org/editions/16/medal,11 – 24 October 1964,,163,19
+37,1964,Winter,Innsbruck,Austria,Innsbruck 1964,https://www.olympedia.org/editions/37/medal,27 January – 9 February 1964,,34,10
+17,1968,Summer,Mexico City,Mexico,Mexico City 1968,https://www.olympedia.org/editions/17/medal,12 – 27 October 1968,,172,18
+38,1968,Winter,Grenoble,France,Grenoble 1968,https://www.olympedia.org/editions/38/medal,4 – 18 February 1968,,35,10
+18,1972,Summer,Munich,West Germany,Munich 1972,https://www.olympedia.org/editions/18/medal,26 August – 11 September 1972,,195,21
+39,1972,Winter,Sapporo,Japan,Sapporo 1972,https://www.olympedia.org/editions/39/medal,3 – 13 February 1972,,35,10
+19,1976,Summer,Montréal,Canada,Montréal 1976,https://www.olympedia.org/editions/19/medal,18 July – 1 August 1976,,198,21
+40,1976,Winter,Innsbruck,Austria,Innsbruck 1976,https://www.olympedia.org/editions/40/medal,2 – 15 February 1976,,37,10
+20,1980,Summer,Moscow,Soviet Union,Moscow 1980,https://www.olympedia.org/editions/20/medal,20 July – 3 August 1980,,203,21
+41,1980,Winter,Lake Placid,United States,Lake Placid 1980,https://www.olympedia.org/editions/41/medal,12 – 24 February 1980,,38,10
+21,1984,Summer,Los Angeles,United States,Los Angeles 1984,https://www.olympedia.org/editions/21/medal,29 July – 12 August 1984,,221,21
+42,1984,Winter,Sarajevo,Yugoslavia,Sarajevo 1984,https://www.olympedia.org/editions/42/medal,7 – 19 February 1984,,39,10
+22,1988,Summer,Seoul,Republic of Korea,Seoul 1988,https://www.olympedia.org/editions/22/medal,17 September – 2 October 1988,,237,23
+43,1988,Winter,Calgary,Canada,Calgary 1988,https://www.olympedia.org/editions/43/medal,13 – 28 February 1988,,46,10
+23,1992,Summer,Barcelona,Spain,Barcelona 1992,https://www.olympedia.org/editions/23/medal,24 July – 9 August 1992,,257,25
+44,1992,Winter,Albertville,France,Albertville 1992,https://www.olympedia.org/editions/44/medal,8 – 23 February 1992,,57,12
+45,1994,Winter,Lillehammer,Norway,Lillehammer 1994,https://www.olympedia.org/editions/45/medal,12 – 27 February 1994,,61,12
+24,1996,Summer,Atlanta,United States,Atlanta 1996,https://www.olympedia.org/editions/24/medal,19 July – 4 August 1996,,271,25
+46,1998,Winter,Nagano,Japan,Nagano 1998,https://www.olympedia.org/editions/46/medal,7 – 22 February 1998,,68,14
+25,2000,Summer,Sydney,Australia,Sydney 2000,https://www.olympedia.org/editions/25/medal,13 September – 1 October 2000,,300,27
+47,2002,Winter,Salt Lake City,United States,Salt Lake City 2002,https://www.olympedia.org/editions/47/medal,9 – 24 February 2002,,78,15
+26,2004,Summer,Athens,Greece,Athens 2004,https://www.olympedia.org/editions/26/medal,11 – 29 August 2004,,301,27
+49,2006,Winter,Turin,Italy,Turin 2006,https://www.olympedia.org/editions/49/medal,11 – 26 February 2006,,84,15
+53,2008,Summer,Beijing,People's Republic of China,Beijing 2008,https://www.olympedia.org/editions/53/medal,6 – 24 August 2008,,302,27
+57,2010,Winter,Vancouver,Canada,Vancouver 2010,https://www.olympedia.org/editions/57/medal,12 – 28 February 2010,,86,15
+54,2012,Summer,London,Great Britain,London 2012,https://www.olympedia.org/editions/54/medal,25 July – 12 August 2012,,302,26
+58,2014,Winter,Sochi,Russian Federation,Sochi 2014,https://www.olympedia.org/editions/58/medal,6 – 23 February 2014,,98,15
+59,2016,Summer,Rio de Janeiro,Brazil,Rio de Janeiro 2016,https://www.olympedia.org/editions/59/medal,3 – 21 August 2016,,306,28
+60,2018,Winter,PyeongChang,Republic of Korea,PyeongChang 2018,https://www.olympedia.org/editions/60/medal,8 – 25 February 2018,Russian athletes competed as Olympic Athletes from Russia (OAR) due to doping sanctions; unified Korean team marched together,102,15
+61,2020,Summer,Tokyo,Japan,Tokyo 2020,https://www.olympedia.org/editions/61/medal,21 July – 8 August 2021,Held in 2021.,339,33
+62,2022,Winter,Beijing,People's Republic of China,Beijing 2022,https://www.olympedia.org/editions/62/medal,2 – 20 February 2022,First city to host both Summer and Winter Olympics; closed-loop COVID protocols; Russian athletes competed as ROC; Kamila Valieva doping case led to delayed figure skating team medal ceremony,109,15
+63,2024,Summer,Paris,France,Paris 2024,https://www.olympedia.org/editions/63/medal,24 Jul – 11 Aug 2024,First Olympics with full gender parity in participants; opening ceremony along the Seine; breaking debuted as Olympic sport; Russian athletes competed as Individual Neutral Athletes (AIN),329,32
+72,2026,Winter,Milano Cortina,Italy,Milano Cortina 2026,https://www.olympedia.org/editions/72/medal,4 – 22 February 2026,"Most spread-out Winter Olympics ever (Milano, Cortina, Livigno, Predazzo clusters); ski mountaineering debuted; Russian and Belarusian athletes competed as AIN",116,16

@@ -1,0 +1,45 @@
+{
+  "snapshot_date": "2026-09-28",
+  "published_assets_retrieved": "2026-10-01",
+  "dashboard_url": "https://public.tableau.com/app/profile/shashank.pabitwar/viz/ExploretheOlympics/OlympicExplorer",
+  "workbook_download_url": "https://public.tableau.com/workbooks/ExploretheOlympics.twb?showVizHome=no",
+  "preview_export_url": "https://public.tableau.com/views/ExploretheOlympics/OlympicExplorer.png?:showVizHome=no",
+  "source_note": "The five supplied CSVs are preserved unchanged. Record-level source URLs remain in the tables.",
+  "files": [
+    {
+      "path": "data/source/awards.csv",
+      "bytes": 3773474,
+      "sha256": "19742534fde098b5c24ea1d3c9be8387ce52c44ed9599ac7127e07348ae32ace"
+    },
+    {
+      "path": "data/source/countries.csv",
+      "bytes": 3181,
+      "sha256": "40d8aa57cfcaaf9d33d6f7971bbe0bfaa3d07a212370cdd7087f1e736ec3f3f0"
+    },
+    {
+      "path": "data/source/editions.csv",
+      "bytes": 7711,
+      "sha256": "b567f46701edc5a40dadeab00e05a5c32e1a67ed86971bd6cad73ada8ae75b6f"
+    },
+    {
+      "path": "data/source/events.csv",
+      "bytes": 906492,
+      "sha256": "6cdc87242c65f12e27c8a00a5374ef47c37077cbb4a0bf230bd469a8ee6a4b1f"
+    },
+    {
+      "path": "data/source/roster_members.csv",
+      "bytes": 3010320,
+      "sha256": "3c7619622441d851f59acac5aafa3871a9db0b99a14b286f0a913c8d0f6f04ed"
+    },
+    {
+      "path": "docs/images/dashboard.png",
+      "bytes": 495386,
+      "sha256": "3d7d96d351ca08466ee4c45ff92ba2646a28a0d0b10f1a6972e5ebeda9dce81f"
+    },
+    {
+      "path": "tableau/Explore_the_Olympics.twbx",
+      "bytes": 55669242,
+      "sha256": "3bf801157160cdbfd42300e383137f43bc6615ba8d57fad27de9509cff103b45"
+    }
+  ]
+}
